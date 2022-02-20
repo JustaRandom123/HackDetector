@@ -1,0 +1,6 @@
+C:\Users\Jonas\source\repos\GTA5HackDetector\GTA5HackDetector\obj\Debug\GTA5HackDetector.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\GTA5HackDetector\GTA5HackDetector\bin\Debug\GTA5HackDetector.exe.config
+C:\Users\Jonas\source\repos\GTA5HackDetector\GTA5HackDetector\bin\Debug\GTA5HackDetector.exe
+C:\Users\Jonas\source\repos\GTA5HackDetector\GTA5HackDetector\bin\Debug\GTA5HackDetector.pdb
+C:\Users\Jonas\source\repos\GTA5HackDetector\GTA5HackDetector\obj\Debug\GTA5HackDetector.exe
+C:\Users\Jonas\source\repos\GTA5HackDetector\GTA5HackDetector\obj\Debug\GTA5HackDetector.pdb
